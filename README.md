@@ -121,6 +121,12 @@ The main goal of FormCoach is to:
 
 ---
 
+## 👥 Team & Contributions
+* **Dilara Tetik** - *Team Lead*
+* Merve Öncü - *Team Member*
+* Gülistan Duman - *Team Member*
+* Defne Mahanoğlu - *Team Member*
+
 
 ## 📄 License
 
