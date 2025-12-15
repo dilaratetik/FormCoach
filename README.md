@@ -39,9 +39,9 @@ The main goal of FormCoach is to:
 
 ## 🖼️ Example Output
 
-<img src="https://github.com/user-attachments/assets/9810ae4e-21c3-4c20-90e1-eaecedf60007" width="300" />
 <img src="https://github.com/user-attachments/assets/0fe8625a-239c-4f40-b8b7-3c3b1ed104b7" width="300" />
 <img src="https://github.com/user-attachments/assets/ef6d09cf-39d0-4c8d-9fdf-4a1d6e4171c6" width="300" />
+<img src="https://github.com/user-attachments/assets/9810ae4e-21c3-4c20-90e1-eaecedf60007" width="300" />
 
 > **Note:** The example image used in this repository has been **anonymized using AI techniques** to protect user privacy.
 
